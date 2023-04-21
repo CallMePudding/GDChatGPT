@@ -27,6 +27,6 @@ jump pad: 6, 1
 
 
 
-Then, get the info and build it. 0,0 is the first grid block, and lowest. Simple!
+3. Get the info and build it. 0,0 is the first grid block, and lowest. Simple!
 
 For NumbersTada.
